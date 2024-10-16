@@ -40,10 +40,10 @@
 
 
 
-### [User Panel Demo](https://www.youtube.com/watch?v=l4MMxoHn__8) (click to open the video)
-[![user demo](https://img.youtube.com/vi/l4MMxoHn__8/sddefault.jpg)](https://www.youtube.com/watch?v=l4MMxoHn__8)
+
+[![user demo](https://img.youtube.com/vi/l4MMxoHn__8/sddefault.jpg)]
 
 
-### [Admin Panel Demo](https://www.youtube.com/watch?v=2JC6r0FfGdo) (click to open the video)
-[![admin demo](https://img.youtube.com/vi/2JC6r0FfGdo/sddefault.jpg)](https://www.youtube.com/watch?v=2JC6r0FfGdo)
+
+[![admin demo](https://img.youtube.com/vi/2JC6r0FfGdo/sddefault.jpg)]
 
